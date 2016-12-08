@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.epicodus.instantmessaging.CreateAccountActivity"
-    android:background="@color/colorPrimary">
+    android:background="@color/colorPrimaryLight">
 
     <LinearLayout
         android:orientation="vertical"
@@ -85,7 +85,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:textColor="@color/button_material_light"
+            android:textColor="@color/colorSecondaryText"
             android:textStyle="bold"
             android:textSize="15sp"
             android:text="Already have an account? Log in here!"
@@ -98,9 +98,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Create Account"
-        android:textColor="@color/button_material_light"
+        android:textColor="@color/colorText"
         android:textSize="30dp"
         android:textStyle="bold"
+
         android:layout_above="@+id/linearLayout"
         android:layout_centerHorizontal="true" />
 
