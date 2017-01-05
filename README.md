@@ -1,6 +1,6 @@
 # Instant Messaging
 
-Practing user authentication and using Firebase to seperate ones data
+Practicing user authentication and using Firebase to seperate ones data
 
 #### By **Andrew Fisher**, Dec 7, 2016
 
