@@ -28,7 +28,7 @@ A group chat where a user can send out a message associated with their name and 
 ```
 
 
-## Future Goals and Ideas (will slowly work their way into the Specifications)
+## Future Goals and Ideas 
 * Delete messages
 * Send individual messages
 
